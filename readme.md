@@ -1,4 +1,5 @@
-# MyDreamer: PersonalizedText-to-VecorGenerationwithDiffusionModel
+# MyDreamer: Personalized Text-to-Vecor Generation with DiffusionModel
+**디퓨전을 활용한 개인화된 텍스트 기반 벡터 그래픽 생성 모델**
 
 # Environment Setup
 
